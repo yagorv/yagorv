@@ -8,7 +8,7 @@ I am currently working at [BeMobile](https://bemobile.es) as Android Developer, 
 
 Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) where I have lead android project, or some of the APPs that [Santillana](https://santillana.es) offers in LATAM.
 
-## APP Dev Skills
+## Android Skills
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
