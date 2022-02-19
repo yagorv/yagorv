@@ -1,9 +1,7 @@
 <div id="top"></div>
 
-[![Medium][medium-shield]][medium-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] 
-
-# :wave: Hi, I’m Yago!
+# :wave: Hi, I’m Yago! 
+# [![LinkedIn][linkedin-shield]][linkedin-url] [![Stack Overflow][stack-shield]][stack-url] [![Medium][medium-shield]][medium-url]
 My name is Yago Rey and I am a computer scientist graduated from the [University of Coruña](https://www.udc.es), city where I live. 
 
 I am currently working at [BeMobile](https://bemobile.es) as Android Developer, and I am part of [Zara](https://www.zara.com) development team. 
@@ -53,3 +51,5 @@ Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) w
 [Medium]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-url]: https://medium.com/@yagomuros1
+[stack-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=
+[stack-url]: https://stackoverflow.com/users/11921311/yago-rey
