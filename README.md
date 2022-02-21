@@ -47,7 +47,7 @@ Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) w
 [linkedin-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=
 [linkedin-url]: https://www.linkedin.com/in/yagorey
 [gmail-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=
-[gmail-url]: mailto:dummyname@gmail.com
+[gmail-url]: mailto:yagomuros1@gmail.com
 [Medium]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-shield]: https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=
 [medium-url]: https://medium.com/@yagomuros1
