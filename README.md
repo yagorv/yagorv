@@ -33,6 +33,18 @@ Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) w
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
+
+## Github Stats
+
+<p align="left">
+  <a href="https://github-readme-stats.vercel.app/api?username=yagorv&show_icons=true&theme=radical">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=yagorv&show_icons=true&theme=radical" height="175" alt="joseluisgs"/>
+  </a> 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yagorv&theme=radical&layout=compact">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagorv&theme=radical&layout=compact" height="175"/>
+  </a> 
+</p>
+
 <!-- CONTACT -->
 ## Contact
 
