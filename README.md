@@ -8,7 +8,7 @@ I am currently working at [BeMobile](https://bemobile.es) as Android Developer, 
 
 Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) where I have lead android project, or some of the APPs that [Santillana](https://santillana.es) offers in LATAM.
 
-Also, im work as Kotlin Trainer in Keepcoding Bootcamp.
+Also, im work as Kotlin Trainer in [Keepcoding](https://keepcoding.io) Bootcamp.
 
 ## Android Skills
 
