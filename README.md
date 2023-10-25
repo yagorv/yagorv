@@ -2,7 +2,7 @@
 
 # :wave: Hi, I’m Yago! 
 # [![LinkedIn][linkedin-shield]][linkedin-url] [![Stack Overflow][stack-shield]][stack-url] [![Medium][medium-shield]][medium-url]
-My name is Yago Rey and I am a computer scientist graduated from the [University of Coruña](https://www.udc.es), city where I live. 
+My name is Yago Rey and I'm a computer scientist graduated by the [University of Coruña](https://www.udc.es), city where I live. 
 
 I am part of [Openbank](https://www.openbank.es/) development team as Android Engineer. 
 
