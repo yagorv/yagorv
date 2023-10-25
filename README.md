@@ -4,9 +4,9 @@
 # [![LinkedIn][linkedin-shield]][linkedin-url] [![Stack Overflow][stack-shield]][stack-url] [![Medium][medium-shield]][medium-url]
 My name is Yago Rey and I am a computer scientist graduated from the [University of Coruña](https://www.udc.es), city where I live. 
 
-I am currently working at [BeMobile](https://bemobile.es) as Android Developer, and I am part of [Zara](https://www.zara.com) development team. 
+I am part of [Openbank](https://bemobile.es) development team as Android Engineer. 
 
-Previously, I have worked on projects such as [Dogoplay](https://dogoplay.com) where I have lead android project, or some of the APPs that [Santillana](https://santillana.es) offers in LATAM.
+Previously, I have worked on projects such as [Zara](https://www.zara.com) or [Dogoplay](https://dogoplay.com) where I have lead android project, or some of the APPs that [Santillana](https://santillana.es) offers in LATAM.
 
 Also, im work as Kotlin Trainer in [Keepcoding](https://keepcoding.io) Bootcamp.
 
